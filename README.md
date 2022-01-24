@@ -1,16 +1,23 @@
-#Robert Hubert
+# Robert Hubert
 
-![alt text][logo]
-[logo]: https://scontent-ort2-1.xx.fbcdn.net/v/t1.18169-9/14657490_1159912680749626_3994580651802358796_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=dMON0KMHJEAAX_ldHuD&_nc_ht=scontent-ort2-1.xx&oh=00_AT8LktJPIVzagNSIK8xSZ_WrKESKjTQWiWdh_uGrjHrzzQ&oe=62139D0B "profile picture"
+![alt text](https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/library/wp-content/uploads/2015/03/adjust-tie.jpeg "profile picture")
 
 
-[GitHub Account](https://github.com/Rhubert710)
 
-####Work History
+Visit my [GitHub](https://github.com/Rhubert710)
+
+#### Work History
 1. US Army
-2. Vestas Wind Turbines
+1. Vestas Wind Turbines
 
-#####Education
--Code Immersives Associate
+##### Education
+- Code Immersives Associate
+
+
+Youtube Video:
+
+<a href="https://www.youtube.com/watch?v=q6NItU5Fztw
+" target="_blank"><img src="http://i3.ytimg.com/vi/q6NItU5Fztw/hqdefault.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
